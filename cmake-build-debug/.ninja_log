@@ -1,0 +1,9 @@
+# ninja log v5
+4	316	7265322924550827	CMakeFiles/echo.dir/echo/main.cpp.obj	9e13b326d6aaed38
+317	682	7265322928151202	echo.exe	207e36d75915fe01
+3	58	7265324808129920	CMakeFiles/echo.dir/echo/main.cpp.obj	9e13b326d6aaed38
+7	329	7265324810839907	CMakeFiles/echo.dir/echo/echo_application.cpp.obj	24577b733aed5dab
+329	693	7265324814410145	echo.exe	d2b474d75c21eb96
+3	54	7265326913535599	CMakeFiles/echo.dir/echo/main.cpp.obj	9e13b326d6aaed38
+7	321	7265326916180445	CMakeFiles/echo.dir/echo/echo_application.cpp.obj	24577b733aed5dab
+321	692	7265326919807775	echo.exe	d2b474d75c21eb96
